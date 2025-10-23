@@ -1,0 +1,7 @@
+[Windeco Exception 0]
+BorderSize=4
+Enabled=true
+ExceptionPattern=bb
+ExceptionType=0
+HideTitleBar=false
+Mask=16
