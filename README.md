@@ -5,6 +5,7 @@
     Icons:<a href="https://store.kde.org/p/2303161">YAMIS</a>
     Cursor:<a href="https://store.kde.org/p/1662218">Nordic cursors</a>
     Color-Scheme: custom-default breeze 
+    Window Tiling:<a href="https://github.com/esjeon/krohnkite">krohnkite</a>
 </pre>
 <pre>
 User Plasmoids
